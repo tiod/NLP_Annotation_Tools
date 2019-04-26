@@ -13,6 +13,10 @@
 >>      * an efficient text annotation tool ready to train AI.
 
 
+中文文本标注工具  
+
+https://github.com/deepwel/Chinese-Annotator
+
 
 
 
